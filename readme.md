@@ -2,7 +2,6 @@ Share
 
 
 You said:
- make a story that starts with the sentence "i'm glad you didn't die" and ends with the same sentence
 
 ChatGPT said:
 ChatGPT
@@ -46,7 +45,6 @@ Liam turned to her, his eyes bright with life. “Me too, Sarah. I’m glad you 
 
 
 You said:
- i made up a story where she said it jokingly after her friend whent zip lining and in the end of the book she hugs her friend with thankful tears saying this same sentence can you make this story
 ChatGPT said:
 ChatGPT
 Title: A Leap of Faith
